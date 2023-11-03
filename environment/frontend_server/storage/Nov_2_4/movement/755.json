@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        113,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (conversing about This is a conversation about Isabella offering to help Klaus with the formatting, spelling, grammar, flow, alignment, and emphasis of the slides in his presentation, as well as suggesting the addition of graphs and charts to visually represent the data.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        110,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcda\u270d\ufe0f",
+      "description": "giving a presentation of the generative agent paper (organizing her notes and preparing her speaking points) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        112,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "giving the presentation to Isabella Rodriguez and Maria Lopez (conversing about This is a conversation about Isabella offering to help Klaus with the formatting, spelling, grammar, flow, alignment, and emphasis of the slides in his presentation, as well as suggesting the addition of graphs and charts to visually represent the data.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:05:50"
+  }
+}

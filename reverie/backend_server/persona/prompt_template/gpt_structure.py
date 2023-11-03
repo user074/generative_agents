@@ -159,6 +159,7 @@ def ChatGPT_safe_generate_response(prompt,
         print ("~~~~")
 
     except: 
+      time.sleep(1)
       pass
 
   return False
@@ -251,6 +252,43 @@ def generate_prompt(curr_input, prompt_lib_file):
     prompt = prompt.split("<commentblockmarker>###</commentblockmarker>")[1]
   return prompt.strip()
 
+#Modified GPT safe response https://github.com/joonspk-research/generative_agents/issues/35
+
+def ChatGPT_safe_generate_response_2(prompt,
+                                     repeat=3,
+                                     fail_safe_response="error",
+                                     func_validate=None,
+                                     func_clean_up=None,
+                                     verbose=False): 
+  # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
+  # prompt = '"""\n' + prompt + '\n"""\n'
+
+  if verbose: 
+    print ("CHAT GPT PROMPT")
+    print (prompt)
+
+  for i in range(repeat):
+
+    try: 
+      print("Requesting GPT")
+      curr_gpt_response = ChatGPT_request(prompt).strip()
+      print("curr_gpt_response")
+      print("-0-0-0-0-0-0-")
+      print(curr_gpt_response)
+      print("-0-0-0-0-0-0-")
+      if func_validate(curr_gpt_response, prompt=prompt): 
+        return_value = func_clean_up(curr_gpt_response, prompt=prompt)
+        print("return_value")
+        print("-0-0-0-0-0-0-")
+        print(return_value)
+        print("-0-0-0-0-0-0-")
+        return return_value
+    except: 
+      print("Error")
+      time.sleep(1)
+      pass
+
+  return fail_safe_response
 
 def safe_generate_response(prompt, 
                            gpt_parameter,
@@ -258,19 +296,60 @@ def safe_generate_response(prompt,
                            fail_safe_response="error",
                            func_validate=None,
                            func_clean_up=None,
-                           verbose=False): 
-  if verbose: 
-    print (prompt)
+                           verbose=False):
+  print("[safe_generate_response]: ENTER")
+  print("[safe_generate_response]: Calling")
+  try:
+    response = ChatGPT_safe_generate_response_2(prompt, repeat=repeat, fail_safe_response=fail_safe_response, func_validate=func_validate, func_clean_up=func_clean_up)
+    print("[safe_generate_response]: EXIT")
+    return response
+  except:
+    print("[safe_generate_response]: ERROR")
+    return fail_safe_response
+  response = ChatGPT_safe_generate_response_2(prompt, repeat=repeat, fail_safe_response=fail_safe_response, func_validate=func_validate, func_clean_up=func_clean_up)
+  return response
 
-  for i in range(repeat): 
-    curr_gpt_response = GPT_request(prompt, gpt_parameter)
-    if func_validate(curr_gpt_response, prompt=prompt): 
-      return func_clean_up(curr_gpt_response, prompt=prompt)
-    if verbose: 
-      print ("---- repeat count: ", i, curr_gpt_response)
-      print (curr_gpt_response)
-      print ("~~~~")
-  return fail_safe_response
+  # To get back to normal:
+  # Comment above
+  # Uncomment below
+
+  # if verbose: 
+  #   print (prompt)
+
+  # for i in range(repeat): 
+  #   curr_gpt_response = GPT_request(prompt, gpt_parameter)
+  #   if func_validate(curr_gpt_response, prompt=prompt): 
+  #     return_value = func_clean_up(curr_gpt_response, prompt=prompt)
+  #     print("-0-0-0-0-0-0-")
+  #     print(return_value)
+  #     print("-0-0-0-0-0-0-")
+  #     exit()
+  #     return return_value
+  #   if verbose: 
+  #     print ("---- repeat count: ", i, curr_gpt_response)
+  #     print (curr_gpt_response)
+  #     print ("~~~~")
+  # return fail_safe_response
+
+# def safe_generate_response(prompt, 
+#                            gpt_parameter,
+#                            repeat=5,
+#                            fail_safe_response="error",
+#                            func_validate=None,
+#                            func_clean_up=None,
+#                            verbose=False): 
+#   if verbose: 
+#     print (prompt)
+
+#   for i in range(repeat): 
+#     curr_gpt_response = GPT_request(prompt, gpt_parameter)
+#     if func_validate(curr_gpt_response, prompt=prompt): 
+#       return func_clean_up(curr_gpt_response, prompt=prompt)
+#     if verbose: 
+#       print ("---- repeat count: ", i, curr_gpt_response)
+#       print (curr_gpt_response)
+#       print ("~~~~")
+#   return fail_safe_response
 
 
 def get_embedding(text, model="text-embedding-ada-002"):
@@ -282,7 +361,7 @@ def get_embedding(text, model="text-embedding-ada-002"):
 
 
 if __name__ == '__main__':
-  gpt_parameter = {"engine": "text-davinci-003", "max_tokens": 50, 
+  gpt_parameter = {"engine": "gpt-3.5-turbo", "max_tokens": 50, 
                    "temperature": 0, "top_p": 1, "stream": False,
                    "frequency_penalty": 0, "presence_penalty": 0, 
                    "stop": ['"']}

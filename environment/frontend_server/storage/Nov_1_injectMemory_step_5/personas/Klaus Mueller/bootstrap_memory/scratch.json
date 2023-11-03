@@ -1,0 +1,252 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:02:10",
+  "curr_tile": [
+    131,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller reads a paper and give a presentation about the paper based on his role as a data analyst",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a data analyst. He is working on a presentation based on the paper he read. He discuss about the paper he read.",
+  "currently": "Klaus Mueller is giving presentation to other people he meet.",
+  "lifestyle": "Klaus Mueller works 24 hours nonstop.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 150,
+  "importance_ele_n": 0,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "spend an hour reading a paper on data analysis techniques",
+    "spend the next few hours preparing a presentation based on the paper, making sure to collect relevant data and create visual aids",
+    "have a quick lunch break at 12:30 pm",
+    "continue working on the presentation until 4:00 pm, making any necessary revisions and practicing the delivery",
+    "at 4:00 pm, meet with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper",
+    "after the presentation, engage in a lively discussion with the audience, answering questions and exchanging ideas"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing morning routine. \n[(ID:t7a1Zx) Monday February 13 -- 09:00 AM] Activity: Klaus is reading a paper on data analysis techniques. \n[(ID:ZvaxPM) Monday February 13 -- 10:00 AM] Activity: Klaus is preparing a presentation based on the paper he read. \n[(ID:5Cz1bK) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n[(ID:PsB0v8) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n[(ID:ehXp61) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n[(ID:C5Q5VJ) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n[(ID:mZ8eL8) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas",
+      60
+    ],
+    [
+      "reading a paper on data analysis techniques. \n\n[ (on the way to reading the paper)",
+      0
+    ],
+    [
+      "reading a paper on data analysis techniques. \n\n[ (conversing about conversing about implementing data analysis techniques and inviting colleagues and supervisor to discuss and collaborate on the ideas)",
+      11
+    ],
+    [
+      "preparing a presentation based on the paper he read. \n[(ID:psb1x8) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n[(ID:JbaPxa) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n[(ID:Rtu4Lj) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n[(ID:AqaP9k) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n[(ID:Mil2bz) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas. \n[(ID:BKaP0y) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:XXaPEz) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:GHQP6R) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:MJ8xpy) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:GJU7Py) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:UJ6SZe) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided (reading the paper on data analysis techniques)",
+      60
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation (reviewing the paper to determine the key points)",
+      5
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation (conducting research to gather additional data and information)",
+      15
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation (organizing and analyzing the collected data)",
+      20
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation (creating charts and graphs to visually present the data)",
+      10
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation (reviewing and editing the visual aids to ensure clarity and accuracy)",
+      10
+    ],
+    [
+      "Klaus is having lunch with his colleagues (ordering food for himself and his colleagues)",
+      5
+    ],
+    [
+      "Klaus is having lunch with his colleagues (setting up the lunch area and arranging the food)",
+      10
+    ],
+    [
+      "Klaus is having lunch with his colleagues (making sure everyone has what they need for lunch)",
+      10
+    ],
+    [
+      "Klaus is having lunch with his colleagues (eating and engaging in conversation with his colleagues)",
+      30
+    ],
+    [
+      "Klaus is having lunch with his colleagues (cleaning up the lunch area and throwing away any trash)",
+      5
+    ],
+    [
+      "not provided\n[(ID:HCxGys) Monday February 13 -- 02:00 PM] Activity: Klaus is not provided\n[(ID:JKKJy9) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided\n[(ID:UlnhdE) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided\n[(ID:Vau4Ko) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided\n[(ID:OuEdtw) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:eksx7K) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:KztYal) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:1A1sQb) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:l3AFV3) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:w9iHhI) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided.\n[(ID:3ogltU) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:8u4twl) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:su7ZoP) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:05V2rR) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:RwtOco) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:3oE9mN) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:2XKJeF) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:Rwh4Ki) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided\n[(ID:3QBp5w) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided\n[(ID:dbQRW1) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:VCzUiM) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:IxHCQe) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:L6d7fi) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:QuxjiU) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:8Bffbh) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper",
+      60
+    ],
+    [
+      "not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:5SW830) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:Jekabi) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:dRMuai) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:afuH1O) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:hOwq0N) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:bN2pXG) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:9A4V5Q) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided.\n[(ID:9VpAFx) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:BVC7MZ) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:7PgQeV) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:2HBZ6o) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:Uy4SUJ) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:TuCBAn) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:9ZvyaB) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:QQlgvD) Monday February 13 -- 01:00 PM] Activity: Klaus is not provided.\n[(ID:wk2NF2) Monday February 13 -- 02:00 PM] Activity: Klaus is not provided.\n[(ID:9E8ia6) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:7BL0bi) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided.\n[(ID:xaJw88) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:X8fozm) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:rcw6RT) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:EcpE122) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:FhzC5Y) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:qlbJRb) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:17T6Wi) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:6pOKTY) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:kkwaIF) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:UXMMNN) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:7Prter) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:VUDBuS) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:Q2aD2S) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:lB7I85) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:mqa3k4) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:MWhlW1) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:kOX2V2) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:3Ierr3) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:SB1ufc) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:K7qmum) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:KpBa18) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:4Tdmg3) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:zh32g4) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:5XQHk5) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:w8MWO6) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:pMaGH7) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:VIYlu8) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:837Fb9) Monday February 13 -- 04:00 PM",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      240
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      49
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing morning routine. \n[(ID:t7a1Zx) Monday February 13 -- 09:00 AM] Activity: Klaus is reading a paper on data analysis techniques. \n[(ID:ZvaxPM) Monday February 13 -- 10:00 AM] Activity: Klaus is preparing a presentation based on the paper he read. \n[(ID:5Cz1bK) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n[(ID:PsB0v8) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n[(ID:ehXp61) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n[(ID:C5Q5VJ) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n[(ID:mZ8eL8) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas",
+      60
+    ],
+    [
+      "reading a paper on data analysis techniques. \n\n[(ID:KhaLOq) Monday February 13 -- 10:00 AM] Activity: Klaus is preparing a presentation based on the paper he read. \n\n[(ID:ldfBpm) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n\n[(ID:ZPMpjK) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n\n[(ID:asWjfL) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n\n[(ID:ejBgly) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n\n[(ID:PbRENO) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas. \n\nPlease note that the given activity for 6:00 PM, 7:00 PM, and onwards are not provided",
+      60
+    ],
+    [
+      "preparing a presentation based on the paper he read. \n[(ID:psb1x8) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n[(ID:JbaPxa) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n[(ID:Rtu4Lj) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n[(ID:AqaP9k) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n[(ID:Mil2bz) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas. \n[(ID:BKaP0y) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:XXaPEz) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:GHQP6R) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:MJ8xpy) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:GJU7Py) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:UJ6SZe) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "collecting relevant data and creating visual aids for the presentation",
+      60
+    ],
+    [
+      "Klaus is having lunch with his colleagues",
+      60
+    ],
+    [
+      "not provided\n[(ID:HCxGys) Monday February 13 -- 02:00 PM] Activity: Klaus is not provided\n[(ID:JKKJy9) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided\n[(ID:UlnhdE) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided\n[(ID:Vau4Ko) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided\n[(ID:OuEdtw) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:eksx7K) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:KztYal) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:1A1sQb) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:l3AFV3) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:w9iHhI) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided.\n[(ID:3ogltU) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:8u4twl) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:su7ZoP) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:05V2rR) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:RwtOco) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:3oE9mN) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:2XKJeF) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:Rwh4Ki) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided\n[(ID:3QBp5w) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided\n[(ID:dbQRW1) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:VCzUiM) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:IxHCQe) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:L6d7fi) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:QuxjiU) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:8Bffbh) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper",
+      60
+    ],
+    [
+      "not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:5SW830) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:5SW830) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided",
+      60
+    ],
+    [
+      "not provided\n[(ID:Jekabi) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:dRMuai) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:afuH1O) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:hOwq0N) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:bN2pXG) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:9A4V5Q) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided.\n[(ID:9VpAFx) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:BVC7MZ) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:7PgQeV) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:2HBZ6o) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:Uy4SUJ) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:TuCBAn) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:9ZvyaB) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:QQlgvD) Monday February 13 -- 01:00 PM] Activity: Klaus is not provided.\n[(ID:wk2NF2) Monday February 13 -- 02:00 PM] Activity: Klaus is not provided.\n[(ID:9E8ia6) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:7BL0bi) Monday February 13 -- 04:00 PM] Activity: Klaus is not provided.\n[(ID:xaJw88) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:X8fozm) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:rcw6RT) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:EcpE122) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:FhzC5Y) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:qlbJRb) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:17T6Wi) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:6pOKTY) Monday February 13 -- 05:00 PM] Activity: Klaus is not provided.\n[(ID:kkwaIF) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:UXMMNN) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:7Prter) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:VUDBuS) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:Q2aD2S) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:lB7I85) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:mqa3k4) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:MWhlW1) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:kOX2V2) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:3Ierr3) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:SB1ufc) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:K7qmum) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:KpBa18) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided.\n[(ID:4Tdmg3) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided.\n[(ID:zh32g4) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided.\n[(ID:5XQHk5) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided.\n[(ID:w8MWO6) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided.\n[(ID:pMaGH7) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided.\n[(ID:VIYlu8) Monday February 13 -- 03:00 PM] Activity: Klaus is not provided.\n[(ID:837Fb9) Monday February 13 -- 04:00 PM",
+      60
+    ],
+    [
+      "ChatGPT ERROR",
+      240
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+  "act_start_time": "February 13, 2023, 11:01:00",
+  "act_duration": 10,
+  "act_description": "collecting relevant data and creating visual aids for the presentation (reviewing and editing the visual aids to ensure clarity and accuracy)",
+  "act_pronunciatio": "\ud83d\udd0e\u2702\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "review and edit",
+    "visual aids"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd28",
+  "act_obj_event": [
+    "desk",
+    "be used",
+    "-"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -228
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

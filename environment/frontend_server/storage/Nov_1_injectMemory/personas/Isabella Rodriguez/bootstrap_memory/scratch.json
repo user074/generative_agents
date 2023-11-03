@@ -1,0 +1,603 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:00:00",
+  "curr_tile": [
+    110,
+    21
+  ],
+  "daily_plan_req": "Isabella Rodriguez read a paper and give a presentation about the paper based on her role as an entrepreneur",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a an entrepreneur. She reads paper and present her pitch. She discuss with others about pitch ideas",
+  "currently": "Isabella Rodriguez gives a presentation to people she meet. She also engages in converstations with others about the paper they all have read",
+  "lifestyle": "Isabella Rodriguez works 24 hours nonstop.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "read a paper and take notes at 9:00 am",
+    "prepare her presentation on the paper at 10:00 am",
+    "give her presentation to a group of people she has arranged to meet at 11:00 am",
+    "have a lunch break at 12:30 pm",
+    "engage in conversations with the people she met about the paper they have all read at 1:30 pm",
+    "continue networking and discussing ideas with others at 2:30 pm",
+    "take some time for herself to relax and recharge at 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine\n[(ID:G88JX4) Monday February 13 -- 09:00 AM] Activity: Isabella is reading a paper and taking notes\n[(ID:Der9MS) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper\n[(ID:UM7fnq) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:5X24bo) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break\n[(ID:8gG7pI) Monday February 13 -- 1:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read\n[(ID:voa2WI) Monday February 13 -- 2:30 PM] Activity: Isabella is continuing to network and discuss ideas with others\n[(ID:nc6MsR) Monday February 13 -- 4:00 PM] Activity: Isabella is taking some time for herself to relax and recharge",
+      60
+    ],
+    [
+      "reading a paper and taking notes.\n\n[ (on the way to reading the paper)",
+      0
+    ],
+    [
+      "reading a paper and taking notes.\n\n[ (conversing about conversing about implementing data analysis techniques and inviting colleagues and supervisor to discuss and collaborate on the ideas)",
+      11
+    ],
+    [
+      "reading a paper and taking notes.\n\n[(ID:Dpx6RG) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper.\n\n[(ID:GvAFAe) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet.\n\n[(ID:1a7d2D) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break.\n\n[(ID:EXutLc) Monday February 13 -- 01:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read.\n\n[(ID:uMSGeB) Monday February 13 -- 02:30 PM] Activity: Isabella is continuing to network and discuss ideas with others.\n\n[(ID:TBSGuO) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge (highlighting important information in the paper)",
+      10
+    ],
+    [
+      "reading a paper and taking notes.\n\n[(ID:Dpx6RG) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper.\n\n[(ID:GvAFAe) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet.\n\n[(ID:1a7d2D) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break.\n\n[(ID:EXutLc) Monday February 13 -- 01:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read.\n\n[(ID:uMSGeB) Monday February 13 -- 02:30 PM] Activity: Isabella is continuing to network and discuss ideas with others.\n\n[(ID:TBSGuO) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge (taking notes on key points from the paper)",
+      10
+    ],
+    [
+      "reading a paper and taking notes.\n\n[(ID:Dpx6RG) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper.\n\n[(ID:GvAFAe) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet.\n\n[(ID:1a7d2D) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break.\n\n[(ID:EXutLc) Monday February 13 -- 01:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read.\n\n[(ID:uMSGeB) Monday February 13 -- 02:30 PM] Activity: Isabella is continuing to network and discuss ideas with others.\n\n[(ID:TBSGuO) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge (organizing her notes)",
+      10
+    ],
+    [
+      "preparing her presentation on the paper",
+      60
+    ],
+    [
+      "giving her presentation to a group of people she has arranged to meet",
+      60
+    ],
+    [
+      "having a lunch break",
+      60
+    ],
+    [
+      "having a lunch break\n[(ID:fi5oMs) Monday February 13 -- 02:00 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read\n[(ID:fi5oMs) Monday February 13 -- 03:00 PM] Activity: Isabella is continuing to network and discuss ideas with others\n[(ID:fi5oMs) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge\n[(ID:fi5oMs) Monday February 13 -- 05:00 PM] Activity: Isabella is reading a paper and taking notes\n[(ID:fi5oMs) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper\n[(ID:fi5oMs) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:fi5oMs) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others\n[(ID:fi5oMs) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind\n[(ID:fi5oMs) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:fi5oMs) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "engaging in conversations with the people she met about the paper they have all read",
+      60
+    ],
+    [
+      "continuing to network and discuss ideas with others\n[(ID:p7qMG4) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge\n[(ID:hdu6gt) Monday February 13 -- 05:00 PM] Activity: Isabella is reading a paper and taking notes\n[(ID:KUsSDt) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper\n[(ID:bkfTrj) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:Tu3iJ7) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others\n[(ID:wO167V) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind\n[(ID:jK7g6d) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:OhdZwv) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and recharge",
+      60
+    ],
+    [
+      "reading a paper and taking notes. \n[(ID:CSLxT2) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper. \n[(ID:NC3m2r) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet. \n[(ID:VB1say) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n[(ID:0q65Aj) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n[(ID:vDpHQ4) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n[(ID:4Z7PNw) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing her presentation on the paper. \n\n[(ID:jC511d) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet. \n\n[(ID:J3EOaP) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n\n[(ID:yI2ABF) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n\n[(ID:Ja82qA) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n\n[(ID:4epUmU) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "giving her presentation to a group of people she has arranged to meet. \n\n[(ID:wCzUEe) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n\n[(ID:yJsx8Z) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n\n[(ID:bA8CUb) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n\n[(ID:vGuYfu) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and unwind \n[(ID:CzZGbN) Monday February 13 -- 09:00 PM] Activity: Isabella is preparing for bed \n[(ID:CzZGbN) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and unwind\n[(ID:TDyk1B) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:TDyk1B) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing for bed\n[(ID:AjWvRT) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine\n[(ID:G88JX4) Monday February 13 -- 09:00 AM] Activity: Isabella is reading a paper and taking notes\n[(ID:Der9MS) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper\n[(ID:UM7fnq) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:5X24bo) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break\n[(ID:8gG7pI) Monday February 13 -- 1:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read\n[(ID:voa2WI) Monday February 13 -- 2:30 PM] Activity: Isabella is continuing to network and discuss ideas with others\n[(ID:nc6MsR) Monday February 13 -- 4:00 PM] Activity: Isabella is taking some time for herself to relax and recharge",
+      60
+    ],
+    [
+      "reading a paper and taking notes.\n\n[(ID:Dpx6RG) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper.\n\n[(ID:GvAFAe) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet.\n\n[(ID:1a7d2D) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break.\n\n[(ID:EXutLc) Monday February 13 -- 01:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read.\n\n[(ID:uMSGeB) Monday February 13 -- 02:30 PM] Activity: Isabella is continuing to network and discuss ideas with others.\n\n[(ID:TBSGuO) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge",
+      60
+    ],
+    [
+      "preparing her presentation on the paper",
+      60
+    ],
+    [
+      "giving her presentation to a group of people she has arranged to meet",
+      60
+    ],
+    [
+      "having a lunch break",
+      60
+    ],
+    [
+      "having a lunch break\n[(ID:fi5oMs) Monday February 13 -- 02:00 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read\n[(ID:fi5oMs) Monday February 13 -- 03:00 PM] Activity: Isabella is continuing to network and discuss ideas with others\n[(ID:fi5oMs) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge\n[(ID:fi5oMs) Monday February 13 -- 05:00 PM] Activity: Isabella is reading a paper and taking notes\n[(ID:fi5oMs) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper\n[(ID:fi5oMs) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:fi5oMs) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others\n[(ID:fi5oMs) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind\n[(ID:fi5oMs) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:fi5oMs) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "engaging in conversations with the people she met about the paper they have all read",
+      60
+    ],
+    [
+      "continuing to network and discuss ideas with others\n[(ID:p7qMG4) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge\n[(ID:hdu6gt) Monday February 13 -- 05:00 PM] Activity: Isabella is reading a paper and taking notes\n[(ID:KUsSDt) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper\n[(ID:bkfTrj) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet\n[(ID:Tu3iJ7) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others\n[(ID:wO167V) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind\n[(ID:jK7g6d) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:OhdZwv) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and recharge",
+      60
+    ],
+    [
+      "reading a paper and taking notes. \n[(ID:CSLxT2) Monday February 13 -- 06:00 PM] Activity: Isabella is preparing her presentation on the paper. \n[(ID:NC3m2r) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet. \n[(ID:VB1say) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n[(ID:0q65Aj) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n[(ID:vDpHQ4) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n[(ID:4Z7PNw) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing her presentation on the paper. \n\n[(ID:jC511d) Monday February 13 -- 07:00 PM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet. \n\n[(ID:J3EOaP) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n\n[(ID:yI2ABF) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n\n[(ID:Ja82qA) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n\n[(ID:4epUmU) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "giving her presentation to a group of people she has arranged to meet. \n\n[(ID:wCzUEe) Monday February 13 -- 08:00 PM] Activity: Isabella is networking and discussing ideas with others. \n\n[(ID:yJsx8Z) Monday February 13 -- 09:00 PM] Activity: Isabella is taking some time for herself to relax and unwind. \n\n[(ID:bA8CUb) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed. \n\n[(ID:vGuYfu) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and unwind \n[(ID:CzZGbN) Monday February 13 -- 09:00 PM] Activity: Isabella is preparing for bed \n[(ID:CzZGbN) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "taking some time for herself to relax and unwind\n[(ID:TDyk1B) Monday February 13 -- 10:00 PM] Activity: Isabella is preparing for bed\n[(ID:TDyk1B) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "preparing for bed\n[(ID:AjWvRT) Monday February 13 -- 11:00 PM] Activity: Isabella is sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 08:00:00",
+  "act_duration": 11,
+  "act_description": "conversing about conversing about implementing data analysis techniques and inviting colleagues and supervisor to discuss and collaborate on the ideas",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Klaus Mueller",
+      "Hey Isabella, I noticed you were reading a paper earlier. What did you find interesting about it?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Hi Klaus! Yes, I found the paper really interesting because it discusses data analysis techniques. It also presents some innovative ideas that I think can be applied to our business. Have you read any interesting papers recently?"
+    ],
+    [
+      "Klaus Mueller",
+      "Yes, I actually just finished reading a paper on data analysis techniques. It was very informative and offered some valuable insights. Would you like me to share some key points from the paper?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Yes, I would love to hear some key points from the paper!"
+    ],
+    [
+      "Klaus Mueller",
+      "The paper I read discusses the importance of data visualization in data analysis techniques. It emphasizes the use of visual aids to communicate findings effectively. Do you think this is something we can incorporate into our presentations?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Absolutely! I think incorporating data visualization into our presentations would be a great idea. It would make our findings more accessible and engaging for our audience."
+    ],
+    [
+      "Klaus Mueller",
+      "We can also discuss the innovative ideas presented in the paper during our presentation. How about we schedule a meeting to further discuss and collaborate on implementing these techniques?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds like a great idea, Klaus! Let's schedule a meeting to further discuss and collaborate on implementing these techniques. How about next Tuesday at 2:00 PM?"
+    ],
+    [
+      "Klaus Mueller",
+      "That sounds good, Isabella! Let's schedule a meeting for next Tuesday at 2:00 PM. I'll create an invite and send it to you."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Great, I look forward to receiving the invite. Thank you, Klaus!"
+    ],
+    [
+      "Klaus Mueller",
+      "Sure, let's also invite our other colleagues who may be interested in implementing these techniques. I think it would be beneficial to have a diverse group of perspectives."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That's a good idea, Klaus. Let's invite our other colleagues who may be interested in implementing these techniques. Having a diverse group of perspectives would be beneficial."
+    ],
+    [
+      "Klaus Mueller",
+      "Let's also invite our other colleagues who may be interested in implementing these techniques. I think it would be beneficial to have a diverse group of perspectives."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Should we also invite our supervisor to the meeting? They may have valuable input as well."
+    ],
+    [
+      "Klaus Mueller",
+      "Yes, we should definitely invite our supervisor to the meeting. They may have valuable input as well."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Yes, let's definitely invite our supervisor to the meeting. They may have valuable input as well."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 08:11:00",
+  "act_path_set": false,
+  "planned_path": [
+    [
+      111,
+      22
+    ],
+    [
+      112,
+      22
+    ],
+    [
+      113,
+      22
+    ],
+    [
+      113,
+      23
+    ],
+    [
+      113,
+      24
+    ],
+    [
+      113,
+      25
+    ],
+    [
+      113,
+      26
+    ],
+    [
+      113,
+      27
+    ],
+    [
+      113,
+      28
+    ],
+    [
+      113,
+      29
+    ],
+    [
+      113,
+      30
+    ],
+    [
+      112,
+      30
+    ],
+    [
+      111,
+      30
+    ],
+    [
+      110,
+      30
+    ],
+    [
+      109,
+      30
+    ],
+    [
+      109,
+      31
+    ],
+    [
+      109,
+      32
+    ],
+    [
+      108,
+      32
+    ],
+    [
+      107,
+      32
+    ],
+    [
+      106,
+      32
+    ],
+    [
+      105,
+      32
+    ],
+    [
+      104,
+      32
+    ],
+    [
+      103,
+      32
+    ],
+    [
+      102,
+      32
+    ],
+    [
+      101,
+      32
+    ],
+    [
+      100,
+      32
+    ],
+    [
+      99,
+      32
+    ],
+    [
+      98,
+      32
+    ],
+    [
+      97,
+      32
+    ],
+    [
+      96,
+      32
+    ],
+    [
+      95,
+      32
+    ],
+    [
+      94,
+      32
+    ],
+    [
+      93,
+      32
+    ],
+    [
+      92,
+      32
+    ],
+    [
+      91,
+      32
+    ],
+    [
+      90,
+      32
+    ],
+    [
+      89,
+      32
+    ],
+    [
+      88,
+      32
+    ],
+    [
+      87,
+      32
+    ],
+    [
+      86,
+      32
+    ],
+    [
+      85,
+      32
+    ],
+    [
+      84,
+      32
+    ],
+    [
+      83,
+      32
+    ],
+    [
+      82,
+      32
+    ],
+    [
+      81,
+      32
+    ],
+    [
+      80,
+      32
+    ],
+    [
+      79,
+      32
+    ],
+    [
+      78,
+      32
+    ],
+    [
+      77,
+      32
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      75,
+      25
+    ],
+    [
+      75,
+      24
+    ],
+    [
+      75,
+      23
+    ],
+    [
+      75,
+      22
+    ],
+    [
+      75,
+      21
+    ],
+    [
+      75,
+      20
+    ],
+    [
+      75,
+      19
+    ],
+    [
+      76,
+      19
+    ],
+    [
+      77,
+      19
+    ],
+    [
+      78,
+      19
+    ],
+    [
+      78,
+      18
+    ],
+    [
+      78,
+      17
+    ],
+    [
+      78,
+      16
+    ],
+    [
+      77,
+      16
+    ],
+    [
+      76,
+      16
+    ],
+    [
+      75,
+      16
+    ],
+    [
+      74,
+      16
+    ],
+    [
+      73,
+      16
+    ],
+    [
+      73,
+      15
+    ],
+    [
+      73,
+      14
+    ]
+  ]
+}

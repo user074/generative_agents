@@ -1,0 +1,370 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:50:00",
+  "curr_tile": [
+    119,
+    24
+  ],
+  "daily_plan_req": "Isabella Rodriguez read a paper and give a presentation about the paper based on her role as an entrepreneur to Klaus Mueller and Maria Lopez at 10AM. She also discuss with them about the paper they all have read.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a an entrepreneur. She reads a generative agent paper and present her pitch for implementation of the paper. She discuss with others about pitch ideas",
+  "currently": "Isabella Rodriguez will give a presentation on generative agent paper for startup at 10am. She also engages in converstations with others about the paper they all have read. She stay in library 24/7",
+  "lifestyle": "Isabella Rodriguez works 24 hours nonstop.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 56,
+  "importance_ele_n": 34,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "read the generative agent paper at 8:30 am",
+    "prepare for the presentation on the paper at 9:00 am",
+    "give the presentation to Klaus Mueller and Maria Lopez at 10:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:2VUEK6) Monday February 13 -- 08:30 AM] Activity: Isabella is reading the generative agent paper\n[(ID:2VUEK6) Monday February 13 -- 09:00 AM] Activity: Isabella is preparing for the presentation on the paper\n[(ID:2VUEK6) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez",
+      60
+    ],
+    [
+      "preparing for the presentation on the paper\n[(ID:l51C49) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am\n[(ID:t73yqp) Monday February 13 -- 11:00 AM] Activity: Isabella is discussing the paper with Klaus Mueller and Maria Lopez\n[(ID:nH1E9o) Monday February 13 -- 12:00 PM] Activity: Isabella is reading and researching on generative agent technology\n[(ID:dK7301) Monday February 13 -- 01:00 PM] Activity: Isabella is having lunch and taking a break\n[(ID:6N5i9u) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing her research on generative agent technology\n[(ID:PmT4NQ) Monday February 13 -- 03:00 PM] Activity: Isabella is meeting with her team to discuss implementation plans for the generative agent technology\n[(ID:L8clY0) Monday February 13 -- 04:00 PM] Activity: Isabella is attending a webinar on entrepreneurship and networking with other professionals in the field\n[(ID:iuJnKc) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup\n[(ID:skaD0j) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and taking a short break\n[(ID:WcLOmX) Monday February 13 -- 07:00 PM] Activity: Isabella is attending a startup networking event and making connections\n[(ID:4METU2) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes\n[(ID:hlnviJ) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow\n[(ID:XMj5Wq) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed\n[(ID:5JQ7lx) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day (reading the generative agent paper)",
+      30
+    ],
+    [
+      "preparing for the presentation on the paper\n[ (on the way to taking notes on important points from the paper)",
+      0
+    ],
+    [
+      "preparing for the presentation on the paper\n[ (conversing about conversing about potential future directions for generative agent research)",
+      20
+    ],
+    [
+      "preparing for the presentation on the paper\n[(ID:l51C49) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am\n[(ID:t73yqp) Monday February 13 -- 11:00 AM] Activity: Isabella is discussing the paper with Klaus Mueller and Maria Lopez\n[(ID:nH1E9o) Monday February 13 -- 12:00 PM] Activity: Isabella is reading and researching on generative agent technology\n[(ID:dK7301) Monday February 13 -- 01:00 PM] Activity: Isabella is having lunch and taking a break\n[(ID:6N5i9u) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing her research on generative agent technology\n[(ID:PmT4NQ) Monday February 13 -- 03:00 PM] Activity: Isabella is meeting with her team to discuss implementation plans for the generative agent technology\n[(ID:L8clY0) Monday February 13 -- 04:00 PM] Activity: Isabella is attending a webinar on entrepreneurship and networking with other professionals in the field\n[(ID:iuJnKc) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup\n[(ID:skaD0j) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and taking a short break\n[(ID:WcLOmX) Monday February 13 -- 07:00 PM] Activity: Isabella is attending a startup networking event and making connections\n[(ID:4METU2) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes\n[(ID:hlnviJ) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow\n[(ID:XMj5Wq) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed\n[(ID:5JQ7lx) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day (brainstorming ideas for her presentation)",
+      10
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (on the way to setting up the presentation materials)",
+      0
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (conversing about This is a conversation about Isabella offering to help Klaus with the formatting, spelling, grammar, flow, alignment, and emphasis of the slides in his presentation, as well as suggesting the addition of graphs and charts to visually represent the data.)",
+      9
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (reviewing her slides and practicing her presentation)",
+      15
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (gathering any additional materials or props for the presentation)",
+      5
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (double-checking the audiovisual equipment and making sure everything is working properly)",
+      10
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm (taking a deep breath and mentally preparing herself for the presentation)",
+      20
+    ],
+    [
+      "discussing the paper with Klaus Mueller and Maria Lopez at 11:00 am (presenting the main ideas and findings of the generative agent paper)",
+      10
+    ],
+    [
+      "discussing the paper with Klaus Mueller and Maria Lopez at 11:00 am (answering questions and engaging in discussion with Klaus Mueller and Maria Lopez about the paper)",
+      30
+    ],
+    [
+      "discussing the paper with Klaus Mueller and Maria Lopez at 11:00 am (providing her analysis and insights on the potential applications and implications of the generative agent technology discussed in the paper)",
+      15
+    ],
+    [
+      "discussing the paper with Klaus Mueller and Maria Lopez at 11:00 am (summarizing the key takeaways and conclusions from the paper discussion)",
+      5
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm (reading the generative agent paper)",
+      10
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm (taking notes on key points from the paper)",
+      10
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm (conducting additional research on generative agent technology)",
+      20
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm (on the way to on the way to organizing her research findings)",
+      0
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm (conversing about conversing about the potential use of generative agents in the education industry and planning to exchange contact information to discuss a collaboration on a pilot study.)",
+      19
+    ],
+    [
+      "organizing her research findings",
+      10
+    ],
+    [
+      "having lunch and taking a break",
+      30
+    ],
+    [
+      "continuing her research on generative agent technology",
+      5
+    ],
+    [
+      "meeting with her team to discuss implementation plans for the generative agent technology",
+      26
+    ],
+    [
+      "wrapping up the meeting and ending the schedule for the day.",
+      4
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM (reviewing the research paper)",
+      10
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM (taking notes on key findings and important points)",
+      15
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM (conducting additional online research to gather more information)",
+      20
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM (organizing her notes and summarizing the research)",
+      10
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM (reviewing her summarized notes and making any necessary revisions)",
+      5
+    ],
+    [
+      "attending a webinar on entrepreneurship and networking with other professionals in the field at 4:00 pm\n[(ID:fTmC8X) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup at 5:00 pm",
+      60
+    ],
+    [
+      "working on her business plan for the generative agent startup",
+      60
+    ],
+    [
+      "having dinner and taking a short break at 6:00 pm",
+      60
+    ],
+    [
+      "attending a startup networking event and making connections at 7:00 PM\n[(ID:ONlKzs) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes at 8:00 PM\n[(ID:fxlqaa) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow at 9:00 PM\n[(ID:Tnw6Xn) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed at 10:00 PM\n[(ID:2R2frj) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day at 11:00 PM",
+      60
+    ],
+    [
+      "reviewing the generative agent paper and taking notes",
+      60
+    ],
+    [
+      "working on her presentation for a pitch event tomorrow at 9:00 PM",
+      60
+    ],
+    [
+      "taking a break and relaxing before bed at 10:00 PM",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the day at 11:00 PM",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      50
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing the morning routine\n[(ID:2VUEK6) Monday February 13 -- 08:30 AM] Activity: Isabella is reading the generative agent paper\n[(ID:2VUEK6) Monday February 13 -- 09:00 AM] Activity: Isabella is preparing for the presentation on the paper\n[(ID:2VUEK6) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez",
+      60
+    ],
+    [
+      "preparing for the presentation on the paper\n[(ID:l51C49) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am\n[(ID:t73yqp) Monday February 13 -- 11:00 AM] Activity: Isabella is discussing the paper with Klaus Mueller and Maria Lopez\n[(ID:nH1E9o) Monday February 13 -- 12:00 PM] Activity: Isabella is reading and researching on generative agent technology\n[(ID:dK7301) Monday February 13 -- 01:00 PM] Activity: Isabella is having lunch and taking a break\n[(ID:6N5i9u) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing her research on generative agent technology\n[(ID:PmT4NQ) Monday February 13 -- 03:00 PM] Activity: Isabella is meeting with her team to discuss implementation plans for the generative agent technology\n[(ID:L8clY0) Monday February 13 -- 04:00 PM] Activity: Isabella is attending a webinar on entrepreneurship and networking with other professionals in the field\n[(ID:iuJnKc) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup\n[(ID:skaD0j) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and taking a short break\n[(ID:WcLOmX) Monday February 13 -- 07:00 PM] Activity: Isabella is attending a startup networking event and making connections\n[(ID:4METU2) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes\n[(ID:hlnviJ) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow\n[(ID:XMj5Wq) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed\n[(ID:5JQ7lx) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day",
+      60
+    ],
+    [
+      "giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am, 5) discuss the paper with Klaus Mueller and Maria Lopez at 11:00 am, 6) read and research on generative agent technology at 12:00 pm, 7) have lunch and take a break at 01:00 pm, 8) continue research on generative agent technology at 02:00 pm, 9) meet with team to discuss implementation plans at 03:00 pm, 10) attend a webinar on entrepreneurship and network with professionals at 04:00 pm, 11) work on the business plan for the generative agent startup at 05:00 pm, 12) have dinner and take a short break at 06:00 pm, 13) attend a startup networking event and make connections at 07:00 pm, 14) review the generative agent paper and take notes at 08:00 pm, 15) work on the presentation for a pitch event tomorrow at 09:00 pm, 16) take a break and relax before bed at 10:00 pm, 17) get ready for bed and wind down for the day at 11:00 pm",
+      60
+    ],
+    [
+      "discussing the paper with Klaus Mueller and Maria Lopez at 11:00 am",
+      60
+    ],
+    [
+      "reading and researching on generative agent technology at 12:00 pm",
+      60
+    ],
+    [
+      "having lunch and taking a break\n[(ID:CEkWNQ) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing her research on generative agent technology\n[(ID:f9phBX) Monday February 13 -- 03:00 PM] Activity: Isabella is meeting with her team to discuss implementation plans for the generative agent technology\n[(ID:AUaI1E) Monday February 13 -- 04:00 PM] Activity: Isabella is attending a webinar on entrepreneurship and networking with other professionals in the field\n[(ID:lnH1E9) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup\n[(ID:A03ttu) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and taking a short break\n[(ID:EgDmPc) Monday February 13 -- 07:00 PM] Activity: Isabella is attending a startup networking event and making connections\n[(ID:eWrJEH) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes\n[(ID:H8v00m) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow\n[(ID:7Vj3Ie) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed\n[(ID:pJZuoo) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day",
+      60
+    ],
+    [
+      "continuing her research on generative agent technology",
+      60
+    ],
+    [
+      "continuing her research on generative agent technology at 3:00 PM",
+      60
+    ],
+    [
+      "attending a webinar on entrepreneurship and networking with other professionals in the field at 4:00 pm\n[(ID:fTmC8X) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup at 5:00 pm",
+      60
+    ],
+    [
+      "working on her business plan for the generative agent startup",
+      60
+    ],
+    [
+      "having dinner and taking a short break at 6:00 pm",
+      60
+    ],
+    [
+      "attending a startup networking event and making connections at 7:00 PM\n[(ID:ONlKzs) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes at 8:00 PM\n[(ID:fxlqaa) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow at 9:00 PM\n[(ID:Tnw6Xn) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed at 10:00 PM\n[(ID:2R2frj) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day at 11:00 PM",
+      60
+    ],
+    [
+      "reviewing the generative agent paper and taking notes",
+      60
+    ],
+    [
+      "working on her presentation for a pitch event tomorrow at 9:00 PM",
+      60
+    ],
+    [
+      "taking a break and relaxing before bed at 10:00 PM",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the day at 11:00 PM",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 13, 2023, 13:45:00",
+  "act_duration": 26,
+  "act_description": "meeting with her team to discuss implementation plans for the generative agent technology",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udc65",
+  "act_event": [
+    "Isabella Rodriguez",
+    "meet",
+    "team"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd28",
+  "act_obj_event": [
+    "desk",
+    "use",
+    ""
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 475,
+    "Klaus Mueller": 337
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

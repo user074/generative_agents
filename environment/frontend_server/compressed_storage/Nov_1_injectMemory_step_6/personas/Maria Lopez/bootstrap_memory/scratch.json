@@ -1,0 +1,299 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:41:00",
+  "curr_tile": [
+    122,
+    49
+  ],
+  "daily_plan_req": "Maria Lopez reads a paper and give a presentation about the paper based on her role as a scentific peer reviewer",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is is a scentific peer reviewer. She is working on a presentation based on the paper she read. She discuss about the paper he read.",
+  "currently": "Maria Lopez gives a presentation to people she meet. She also engages in converstations with others about the paper they all have read",
+  "lifestyle": "Maria Lopez works 24 hours nonstop.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 115,
+  "importance_ele_n": 15,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "read a scientific paper and take notes at 9:00 am",
+    "prepare and organize the presentation based on the paper at 10:00 am",
+    "practice the presentation and make any necessary changes at 11:00 am",
+    "have lunch and take a short break at 12:00 pm",
+    "give the presentation to a group of colleagues at 1:00 pm",
+    "engage in discussions about the paper with the colleagues after the presentation at 2:00 pm",
+    "continue working on any revisions or additional research related to the paper at 3:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine\n[(ID:R1VA5B) Monday February 13 -- 09:00 AM] Activity: Maria is reading a scientific paper and taking notes\n[(ID:BNT3aj) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:lRN8EN) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:lIOmFE) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:lKSbXG) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:A1KLXP) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:I8XkgQ) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (reading the scientific paper and highlighting key points)",
+      15
+    ],
+    [
+      "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (taking notes on the main ideas and supporting evidence)",
+      20
+    ],
+    [
+      "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (summarizing each section of the paper)",
+      15
+    ],
+    [
+      "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (organizing her notes and creating an outline)",
+      10
+    ],
+    [
+      "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (organizing her notes from reading the paper and identifying key points)",
+      10
+    ],
+    [
+      "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (creating an outline for the presentation, including an introduction, main points, and conclusion)",
+      15
+    ],
+    [
+      "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (gathering and organizing any supporting materials, such as graphs, charts, or images, to use in the presentation)",
+      20
+    ],
+    [
+      "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (practicing the presentation, going through each slide and rehearsing what she will say)",
+      15
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper (reading the paper again to fully understand the content)",
+      10
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper (highlighting important information and taking notes)",
+      15
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper (conducting additional research to support the points in the presentation)",
+      20
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper (organizing the information and creating an outline for the presentation)",
+      10
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper (saving her progress and preparing any visuals or slides needed for the presentation)",
+      5
+    ],
+    [
+      "having lunch and taking a short break\n[(ID:ApJepk) Monday February 13 -- 02:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:CJQete) Monday February 13 -- 03:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:abT7rd) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (reviewing her notes from the paper)",
+      10
+    ],
+    [
+      "having lunch and taking a short break\n[(ID:ApJepk) Monday February 13 -- 02:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:CJQete) Monday February 13 -- 03:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:abT7rd) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (organizing her thoughts for the presentation)",
+      10
+    ],
+    [
+      "having lunch and taking a short break\n[(ID:ApJepk) Monday February 13 -- 02:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:CJQete) Monday February 13 -- 03:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:abT7rd) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (creating slides for the presentation)",
+      20
+    ],
+    [
+      "having lunch and taking a short break\n[(ID:ApJepk) Monday February 13 -- 02:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:CJQete) Monday February 13 -- 03:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:abT7rd) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (practicing her presentation)",
+      20
+    ],
+    [
+      "taking a break and resting\n[(ID:MRbOMf) Monday February 13 -- 02:00 PM] Activity: Maria is answering emails and responding to inquiries\n[(ID:IhD0x7) Monday February 13 -- 03:00 PM] Activity: Maria is attending a meeting with her colleagues to discuss future projects\n[(ID:tpg6J3) Monday February 13 -- 04:00 PM] Activity: Maria is working on her presentation for an upcoming conference\n[(ID:QhKBKU) Monday February 13 -- 05:00 PM] Activity: Maria is participating in a conference call with other researchers in her field\n[(ID:rYQsku) Monday February 13 -- 06:00 PM] Activity: Maria is conducting an experiment in the lab\n[(ID:0QqZ0P) Monday February 13 -- 07:00 PM] Activity: Maria is analyzing data from her experiment\n[(ID:zwCvwx) Monday February 13 -- 08:00 PM] Activity: Maria is writing a research paper based on her findings\n[(ID:CmZ7HG) Monday February 13 -- 09:00 PM] Activity: Maria is reviewing scientific papers for a journal\n[(ID:gjQBNu) Monday February 13 -- 10:00 PM] Activity: Maria is attending a seminar on the latest advancements in her field\n[(ID:fqlxzO) Monday February 13 -- 11:00 PM] Activity: Maria is preparing for her next day's schedule and organizing her work materials\n\nPlease note that Maria's schedule may vary on different days of the week and depending on her specific tasks and commitments",
+      60
+    ],
+    [
+      "engaging in discussions about the paper with the colleagues\n[(ID:7E9T3F) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:psBhDE) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:SkYcF2) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:ASBtnK) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:qmY5hK) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:LZlfDB) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:tAQv3Q) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:u8rgHS) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:fI0GHA) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper, 9) continue working on any revisions or additional research related to the paper at 4:00 pm, 10) continue working on any revisions or additional research related to the paper at 5:00 pm, 11) continue working on any revisions or additional research related to the paper at 6:00 pm, 12) continue working on any revisions or additional research related to the paper at 7:00 pm, 13) continue working on any revisions or additional research related to the paper at 8:00 pm, 14) continue working on any revisions or additional research related to the paper at 9:00 pm, 15) continue working on any revisions or additional research related to the paper at 10:00 pm, 16) continue working on any revisions or additional research related to the paper at 11:00 pm",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:Ve0ADu) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:yYXimu) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:es10kw) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:yK6IIT) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:pjmoET) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:hmFJgU) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9tduAu) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:DRLuDS) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ybusCs) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:gtINfU) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:nRPLlw) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:hZHi6J) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:a5aCAR) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:jMgrAK) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:oKVcB0) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:UDhXCI) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:JUGCEx) Monday February 13 -- 12:00 AM] Activity: Maria is resting and getting ready for her next day's schedule",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:3Vt94T) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:2P1DwS) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:WQk9cW) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:JxVtDr) Monday February 13 -- 12:00 AM] Activity: Maria is taking a break and resting",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper",
+      120
+    ],
+    [
+      "continuing",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine\n[(ID:R1VA5B) Monday February 13 -- 09:00 AM] Activity: Maria is reading a scientific paper and taking notes\n[(ID:BNT3aj) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:lRN8EN) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:lIOmFE) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:lKSbXG) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:A1KLXP) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:I8XkgQ) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "having lunch and taking a short break\n[(ID:ApJepk) Monday February 13 -- 02:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:CJQete) Monday February 13 -- 03:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:abT7rd) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "taking a break and resting\n[(ID:MRbOMf) Monday February 13 -- 02:00 PM] Activity: Maria is answering emails and responding to inquiries\n[(ID:IhD0x7) Monday February 13 -- 03:00 PM] Activity: Maria is attending a meeting with her colleagues to discuss future projects\n[(ID:tpg6J3) Monday February 13 -- 04:00 PM] Activity: Maria is working on her presentation for an upcoming conference\n[(ID:QhKBKU) Monday February 13 -- 05:00 PM] Activity: Maria is participating in a conference call with other researchers in her field\n[(ID:rYQsku) Monday February 13 -- 06:00 PM] Activity: Maria is conducting an experiment in the lab\n[(ID:0QqZ0P) Monday February 13 -- 07:00 PM] Activity: Maria is analyzing data from her experiment\n[(ID:zwCvwx) Monday February 13 -- 08:00 PM] Activity: Maria is writing a research paper based on her findings\n[(ID:CmZ7HG) Monday February 13 -- 09:00 PM] Activity: Maria is reviewing scientific papers for a journal\n[(ID:gjQBNu) Monday February 13 -- 10:00 PM] Activity: Maria is attending a seminar on the latest advancements in her field\n[(ID:fqlxzO) Monday February 13 -- 11:00 PM] Activity: Maria is preparing for her next day's schedule and organizing her work materials\n\nPlease note that Maria's schedule may vary on different days of the week and depending on her specific tasks and commitments",
+      60
+    ],
+    [
+      "engaging in discussions about the paper with the colleagues\n[(ID:7E9T3F) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:psBhDE) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:SkYcF2) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:ASBtnK) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:qmY5hK) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:LZlfDB) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:tAQv3Q) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:u8rgHS) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:fI0GHA) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper, 9) continue working on any revisions or additional research related to the paper at 4:00 pm, 10) continue working on any revisions or additional research related to the paper at 5:00 pm, 11) continue working on any revisions or additional research related to the paper at 6:00 pm, 12) continue working on any revisions or additional research related to the paper at 7:00 pm, 13) continue working on any revisions or additional research related to the paper at 8:00 pm, 14) continue working on any revisions or additional research related to the paper at 9:00 pm, 15) continue working on any revisions or additional research related to the paper at 10:00 pm, 16) continue working on any revisions or additional research related to the paper at 11:00 pm",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:Ve0ADu) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:yYXimu) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:es10kw) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:yK6IIT) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:pjmoET) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:hmFJgU) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9tduAu) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:DRLuDS) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ybusCs) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:gtINfU) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:nRPLlw) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:hZHi6J) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:a5aCAR) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:jMgrAK) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:oKVcB0) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:UDhXCI) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper\n[(ID:JUGCEx) Monday February 13 -- 12:00 AM] Activity: Maria is resting and getting ready for her next day's schedule",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper.\n[(ID:3Vt94T) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:2P1DwS) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:WQk9cW) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:JxVtDr) Monday February 13 -- 12:00 AM] Activity: Maria is taking a break and resting",
+      60
+    ],
+    [
+      "continuing to work on any revisions or additional research related to the paper",
+      120
+    ],
+    [
+      "continuing",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 11:25:00",
+  "act_duration": 20,
+  "act_description": "continuing to work on any revisions or additional research related to the paper (conducting additional research to support the points in the presentation)",
+  "act_pronunciatio": "\ud83d\udd0d",
+  "act_event": [
+    "Maria Lopez",
+    "conduct",
+    "research"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udc65\ud83d\udcbb",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "[missing object]"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

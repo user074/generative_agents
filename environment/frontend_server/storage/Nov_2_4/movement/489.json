@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "preparing for the presentation on the paper\n[(ID:l51C49) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez at 10:00 am\n[(ID:t73yqp) Monday February 13 -- 11:00 AM] Activity: Isabella is discussing the paper with Klaus Mueller and Maria Lopez\n[(ID:nH1E9o) Monday February 13 -- 12:00 PM] Activity: Isabella is reading and researching on generative agent technology\n[(ID:dK7301) Monday February 13 -- 01:00 PM] Activity: Isabella is having lunch and taking a break\n[(ID:6N5i9u) Monday February 13 -- 02:00 PM] Activity: Isabella is continuing her research on generative agent technology\n[(ID:PmT4NQ) Monday February 13 -- 03:00 PM] Activity: Isabella is meeting with her team to discuss implementation plans for the generative agent technology\n[(ID:L8clY0) Monday February 13 -- 04:00 PM] Activity: Isabella is attending a webinar on entrepreneurship and networking with other professionals in the field\n[(ID:iuJnKc) Monday February 13 -- 05:00 PM] Activity: Isabella is working on her business plan for the generative agent startup\n[(ID:skaD0j) Monday February 13 -- 06:00 PM] Activity: Isabella is having dinner and taking a short break\n[(ID:WcLOmX) Monday February 13 -- 07:00 PM] Activity: Isabella is attending a startup networking event and making connections\n[(ID:4METU2) Monday February 13 -- 08:00 PM] Activity: Isabella is reviewing the generative agent paper and taking notes\n[(ID:hlnviJ) Monday February 13 -- 09:00 PM] Activity: Isabella is working on her presentation for a pitch event tomorrow\n[(ID:XMj5Wq) Monday February 13 -- 10:00 PM] Activity: Isabella is taking a break and relaxing before bed\n[(ID:5JQ7lx) Monday February 13 -- 11:00 PM] Activity: Isabella is getting ready for bed and winding down for the day (reading the generative agent paper) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udcda",
+      "description": "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (conversing about conversing about Klaus's research on generative agents, including the experiments conducted, their findings, challenges faced, ethical considerations, and future directions of the research.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "taking notes and analyzing the generative agent paper\n[(ID:wZZeER) Monday February 13 -- 10:00 AM] Activity: Klaus is preparing the presentation slides based on the paper\n[(ID:09Z1qc) Monday February 13 -- 11:00 AM] Activity: Klaus is giving the presentation to Isabella Rodriguez and Maria Lopez\n[(ID:igXdf4) Monday February 13 -- 11:30 AM] Activity: Klaus is discussing the paper with Isabella and Maria\n[(ID:YSpF8G) Monday February 13 -- 12:30 PM] Activity: Klaus is continuing to work on the paper and make any necessary revisions\n[(ID:EsPgNV) Monday February 13 -- 01:00 PM] Activity: Klaus is taking a break and having lunch\n[(ID:tIZktE) Monday February 13 -- 02:00 PM] Activity: Klaus is continuing to work on the paper and make any necessary revisions\n[(ID:TiMr2N) Monday February 13 -- 03:00 PM] Activity: Klaus is meeting with his supervisor to discuss his progress on the paper\n[(ID:arAbwV) Monday February 13 -- 04:00 PM] Activity: Klaus is taking a short break and getting some fresh air\n[(ID:wKmpto) Monday February 13 -- 04:30 PM] Activity: Klaus is continuing to work on the paper and make any necessary revisions\n[(ID:xd2bUK) Monday February 13 -- 05:30 PM] Activity: Klaus is taking another short break and grabbing a snack\n[(ID:UhaLy5) Monday February 13 -- 06:00 PM] Activity: Klaus is continuing to work on the paper and make any necessary revisions\n[(ID:mebWuf) Monday February 13 -- 07:00 PM] Activity: Klaus is reviewing his presentation and making any final changes\n[(ID:445kog) Monday February 13 -- 08:00 PM] Activity: Klaus is taking a break and having dinner\n[(ID:5IA4G2) Monday February 13 -- 09:00 PM] Activity: Klaus is practicing his presentation for tomorrow's meeting\n[(ID:yhpnFL) Monday February 13 -- 10:00 PM] Activity: Klaus is taking a break and relaxing before bed\n[(ID:GgyTsj) Monday February 13 -- 11:00 PM] Activity: Klaus is getting ready for bed and preparing for tomorrow's busy schedule (reading the generative agent paper) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:21:30"
+  }
+}

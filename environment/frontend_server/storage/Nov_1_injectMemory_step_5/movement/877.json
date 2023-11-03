@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcca\ud83d\uddbc\ufe0f",
+      "description": "preparing her presentation on the paper (creating visual aids or a slideshow for her presentation) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcca",
+      "description": "preparing and organizing the presentation based on the paper.\n[(ID:scBMii) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes.\n[(ID:BnKkoj) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break.\n[(ID:ZTDpih) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues.\n[(ID:a6ofaU) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues.\n[(ID:iViYmu) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (gathering and organizing any supporting materials, such as graphs, charts, or images, to use in the presentation) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udd0d",
+      "description": "collecting relevant data and creating visual aids for the presentation (conducting research to gather additional data and information) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:26:10"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "waking up and completing the morning routine\n[(ID:2VUEK6) Monday February 13 -- 08:30 AM] Activity: Isabella is reading the generative agent paper\n[(ID:2VUEK6) Monday February 13 -- 09:00 AM] Activity: Isabella is preparing for the presentation on the paper\n[(ID:2VUEK6) Monday February 13 -- 10:00 AM] Activity: Isabella is giving the presentation to Klaus Mueller and Maria Lopez @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        26
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "waking up and completing her morning routine\n[(ID:JGw7tU) Monday February 13 -- 08:30 AM] Activity: Maria is reading a generative agent paper\n[(ID:nWif7p) Monday February 13 -- 09:30 AM] Activity: Maria is preparing a presentation based on the paper\n[(ID:WQWhzS) Monday February 13 -- 10:00 AM] Activity: Maria is giving a presentation on the generative agent paper\n[(ID:Og4vUg) Monday February 13 -- 10:30 AM] Activity: Maria is engaging in conversations with Klaus Mueller and Isabella Rodriguez about the paper\n[(ID:AsDtfR) Monday February 13 -- 11:00 AM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:ONLM6L) Monday February 13 -- 12:00 PM] Activity: Maria is having a lunch break and resting\n[(ID:RRaa9D) Monday February 13 -- 01:00 PM] Activity: Maria is resuming reading and research on generative agents and related topics\n[(ID:waTk43) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        31
+      ],
+      "pronunciatio": "\ud83d\ude2c",
+      "description": "waking up and completing his morning routine\n[(ID:yzFtnl) Monday February 13 -- 08:30 AM] Activity: Klaus is starting to read the generative agent paper\n[(ID:r93v6w) Monday February 13 -- 09:30 AM] Activity: Klaus is taking notes and analyzing the paper\n[(ID:QZjMWn) Monday February 13 -- 10:00 AM] Activity: Klaus is preparing the presentation slides based on the paper\n[(ID:Yyt0Pw) Monday February 13 -- 10:00 AM] Activity: Klaus is giving the presentation to Isabella Rodriguez and Maria Lopez\n[(ID:bDqSJY) Monday February 13 -- 10:30 AM] Activity: Klaus is discussing the paper with Isabella and Maria\n[(ID:OGJtJk) Monday February 13 -- 12:00 PM] Activity: Klaus is continuing to work on the paper and make any necessary revisions\n[(ID:UXgsBr) Monday February 13 -- 12:00 PM] Activity: Klaus is taking a break and having lunch @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:13:10"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\uddc2\ufe0f",
+      "description": "reading a paper and taking notes.\n\n[(ID:Dpx6RG) Monday February 13 -- 10:00 AM] Activity: Isabella is preparing her presentation on the paper.\n\n[(ID:GvAFAe) Monday February 13 -- 11:00 AM] Activity: Isabella is giving her presentation to a group of people she has arranged to meet.\n\n[(ID:1a7d2D) Monday February 13 -- 12:30 PM] Activity: Isabella is having a lunch break.\n\n[(ID:EXutLc) Monday February 13 -- 01:30 PM] Activity: Isabella is engaging in conversations with the people she met about the paper they have all read.\n\n[(ID:uMSGeB) Monday February 13 -- 02:30 PM] Activity: Isabella is continuing to network and discuss ideas with others.\n\n[(ID:TBSGuO) Monday February 13 -- 04:00 PM] Activity: Isabella is taking some time for herself to relax and recharge (organizing her notes) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcc4\ud83d\udd0d",
+      "description": "reading a scientific paper and taking notes\n[(ID:81GhuK) Monday February 13 -- 10:00 AM] Activity: Maria is preparing and organizing the presentation based on the paper\n[(ID:DXblTC) Monday February 13 -- 11:00 AM] Activity: Maria is practicing the presentation and making any necessary changes\n[(ID:OaJUc0) Monday February 13 -- 12:00 PM] Activity: Maria is having lunch and taking a short break\n[(ID:Xpl1WE) Monday February 13 -- 01:00 PM] Activity: Maria is giving the presentation to a group of colleagues\n[(ID:pI6VeR) Monday February 13 -- 02:00 PM] Activity: Maria is engaging in discussions about the paper with the colleagues\n[(ID:aSdqIv) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xUtbO9) Monday February 13 -- 04:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:b9n5R9) Monday February 13 -- 05:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:XdJ10B) Monday February 13 -- 06:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:MPh2QD) Monday February 13 -- 07:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:SFn7YN) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:ukXx6b) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:xcc8MD) Monday February 13 -- 10:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper.\n[(ID:9a3e3X) Monday February 13 -- 11:00 PM] Activity: Maria is continuing to work on any revisions or additional research related to the paper (summarizing each section of the paper) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "preparing a presentation based on the paper he read. \n[(ID:psb1x8) Monday February 13 -- 11:00 AM] Activity: Klaus is collecting relevant data and creating visual aids for the presentation. \n[(ID:JbaPxa) Monday February 13 -- 12:30 PM] Activity: Klaus is having a lunch break. \n[(ID:Rtu4Lj) Monday February 13 -- 01:30 PM] Activity: Klaus is continuing to work on the presentation until 4:00 PM, making any necessary revisions and practicing the delivery. \n[(ID:AqaP9k) Monday February 13 -- 04:00 PM] Activity: Klaus is meeting with colleagues and fellow data analysts to give the presentation, sharing insights and discussing the paper. \n[(ID:Mil2bz) Monday February 13 -- 05:00 PM] Activity: Klaus is engaging in a lively discussion with the audience, answering questions and exchanging ideas. \n[(ID:BKaP0y) Monday February 13 -- 06:00 PM] Activity: Klaus is not provided\n[(ID:XXaPEz) Monday February 13 -- 07:00 PM] Activity: Klaus is not provided\n[(ID:GHQP6R) Monday February 13 -- 08:00 PM] Activity: Klaus is not provided\n[(ID:MJ8xpy) Monday February 13 -- 09:00 PM] Activity: Klaus is not provided\n[(ID:GJU7Py) Monday February 13 -- 10:00 PM] Activity: Klaus is not provided\n[(ID:UJ6SZe) Monday February 13 -- 11:00 PM] Activity: Klaus is not provided (reading the paper on data analysis techniques) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:39:50"
+  }
+}

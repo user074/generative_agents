@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udca1",
+      "description": "reading and researching on generative agent technology at 12:00 pm (conversing about conversing about the potential use of generative agents in the education industry and planning to exchange contact information to discuss a collaboration on a pilot study.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83e\udd1d",
+      "description": "having a lunch break and resting (conversing about conversing about the potential use of generative agents in the education industry and planning to exchange contact information to discuss a collaboration on a pilot study.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        20
+      ],
+      "pronunciatio": "\ud83d\uddd2\ufe0f\ud83d\udca1",
+      "description": "meeting with his supervisor to discuss his progress on the paper. (organizing his thoughts and outlining the main points he wants to discuss) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:02:20"
+  }
+}

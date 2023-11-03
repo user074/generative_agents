@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udca1\u2753",
+      "description": "giving her presentation to a group of people she has arranged to meet (answering any questions or addressing any concerns from the audience) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "continuing to work on any revisions or additional research related to the paper (conducting additional research to support the points in the presentation) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83d\udcac",
+      "description": "Klaus is having lunch with his colleagues (eating and engaging in conversation with his colleagues) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:38:50"
+  }
+}

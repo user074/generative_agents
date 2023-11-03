@@ -1,0 +1,294 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:00:00",
+  "curr_tile": [
+    110,
+    20
+  ],
+  "daily_plan_req": "Maria Lopez reads a paper and give a presentation about the paper based on her role as a scentific peer reviewer to Klaus Mueller and Isabella Rodriguez at 10AM. She also discuss with them about the paper they all have read.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is is a scentific peer reviewer. She is working on a presentation based on a generative agent paper she read. She discuss about the paper he read. ",
+  "currently": "Maria Lopez will give a presentation of generative agent paper at 10AM. She also engages in converstations with others about the paper they all have read. She stay in library 24/7",
+  "lifestyle": "Maria Lopez works 24 hours nonstop.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 73,
+  "importance_ele_n": 23,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "read a generative agent paper from 8:30 am to 9:30 am",
+    "prepare the presentation based on the paper from 9:30 am to 9:45 am",
+    "give the presentation at 10:00 am",
+    "engage in conversations with Klaus Mueller and Isabella Rodriguez about the paper from 10:30 am to 11:00 am",
+    "continue reading and researching on generative agents and related topics from 11:00 am to 12:00 pm",
+    "have a lunch break and rest from 12:00 pm to 1:00 pm",
+    "resume reading and research from 1:00 pm to 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:JGw7tU) Monday February 13 -- 08:30 AM] Activity: Maria is reading a generative agent paper\n[(ID:nWif7p) Monday February 13 -- 09:30 AM] Activity: Maria is preparing a presentation based on the paper\n[(ID:WQWhzS) Monday February 13 -- 10:00 AM] Activity: Maria is giving a presentation on the generative agent paper\n[(ID:Og4vUg) Monday February 13 -- 10:30 AM] Activity: Maria is engaging in conversations with Klaus Mueller and Isabella Rodriguez about the paper\n[(ID:AsDtfR) Monday February 13 -- 11:00 AM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:ONLM6L) Monday February 13 -- 12:00 PM] Activity: Maria is having a lunch break and resting\n[(ID:RRaa9D) Monday February 13 -- 01:00 PM] Activity: Maria is resuming reading and research on generative agents and related topics\n[(ID:waTk43) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research",
+      60
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (summarizing the main points of the generative agent paper)",
+      5
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (on the way to giving her opinion on the strengths and weaknesses of the paper)",
+      0
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (conversing about conversing about Klaus's research on generative agents, including the experiments conducted, their findings, challenges faced, ethical considerations, and future directions of the research.)",
+      20
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (on the way to listening to Klaus Mueller and Isabella Rodriguez's thoughts and opinions on the paper)",
+      0
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez (conversing about conversing about potential future directions for generative agent research)",
+      20
+    ],
+    [
+      "giving a presentation of the generative agent paper (setting up her presentation slides)",
+      15
+    ],
+    [
+      "giving a presentation of the generative agent paper (organizing her notes and preparing her speaking points)",
+      10
+    ],
+    [
+      "giving a presentation of the generative agent paper (rehearsing her presentation)",
+      20
+    ],
+    [
+      "giving a presentation of the generative agent paper (taking a break to drink water and calm her nerves)",
+      5
+    ],
+    [
+      "giving a presentation of the generative agent paper (gathering any necessary props or visual aids for her presentation)",
+      5
+    ],
+    [
+      "giving a presentation of the generative agent paper (starting her presentation and introducing the topic)",
+      20
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (reviewing the abstract and introduction of the paper)",
+      10
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (taking notes on key points from the paper)",
+      10
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (conducting additional research on the topic)",
+      15
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (analyzing the methodology used in the paper)",
+      10
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (comparing the results from the paper with previous research)",
+      10
+    ],
+    [
+      "continuing to read and research on generative agents and related topics (writing down questions or areas of confusion for further discussion)",
+      5
+    ],
+    [
+      "having a lunch break and resting",
+      60
+    ],
+    [
+      "resuming reading and research on generative agents and related topics\n[(ID:mqwqbc) Monday February 13 -- 02:00 PM] Activity: Maria is still reading and researching\n[(ID:GzezVe) Monday February 13 -- 03:00 PM] Activity: Maria is still reading and researching\n[(ID:TQMuUh) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:zAFPw1) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:CPLrgq) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:Q8Cfuv) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:mm4TvU) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:0hMS88) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:xUzA47) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:rziLwz) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still reading and researching\n[(ID:TyFktH) Monday February 13 -- 03:00 PM] Activity: Maria is still reading and researching\n[(ID:CGLViR) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:m9bZdB) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:YXCqcT) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:2hYeh5) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:fwKfUH) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:Eed01T) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:5AINWi) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:MVij0E) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still reading and researching\n[(ID:2h9BiE) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:htYxt9) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:9CPFmZ) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:mVkktb) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:dof6Fc) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:KznfjP) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:4SynUd) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:wjB1a7) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break from reading and research, 9) discuss the paper with Klaus Mueller and Isabella Rodriguez from 5:00 pm to 6:00 pm, 10) take a break and have dinner from 6:00 pm to 7:00 pm, 11) continue reading and researching from 8:00 pm to 10:00 pm, 12) take a break and get ready for bed from 11:00 pm onward",
+      60
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:bg6jKs) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:C7oISz) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:qwvWEn) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:VrhefB) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:YdrYVL) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:5HGXKa) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break and having dinner\n[(ID:2ALBa2) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:GoMZ4s) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:7ZZMsH) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:CPO7x5) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:DMXMKZ) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still taking a break and relaxing\n[(ID:ObrfyC) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:KFiUdW) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:YDcybB) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:hC7P2H) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break from reading and research, discussing the paper with Klaus Mueller and Isabella Rodriguez from 5:00 pm to 6:00 pm, taking a break and having dinner from 6:00 pm to 7:00 pm, continuing to read and research from 8:00 pm to 10:00 pm, and taking a break and getting ready for bed from 11:00 pm onwards",
+      60
+    ],
+    [
+      "still reading and researching",
+      60
+    ],
+    [
+      "taking a break and getting ready for bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine\n[(ID:JGw7tU) Monday February 13 -- 08:30 AM] Activity: Maria is reading a generative agent paper\n[(ID:nWif7p) Monday February 13 -- 09:30 AM] Activity: Maria is preparing a presentation based on the paper\n[(ID:WQWhzS) Monday February 13 -- 10:00 AM] Activity: Maria is giving a presentation on the generative agent paper\n[(ID:Og4vUg) Monday February 13 -- 10:30 AM] Activity: Maria is engaging in conversations with Klaus Mueller and Isabella Rodriguez about the paper\n[(ID:AsDtfR) Monday February 13 -- 11:00 AM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:ONLM6L) Monday February 13 -- 12:00 PM] Activity: Maria is having a lunch break and resting\n[(ID:RRaa9D) Monday February 13 -- 01:00 PM] Activity: Maria is resuming reading and research on generative agents and related topics\n[(ID:waTk43) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research",
+      60
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez",
+      60
+    ],
+    [
+      "giving a presentation of the generative agent paper",
+      60
+    ],
+    [
+      "continuing to read and research on generative agents and related topics",
+      60
+    ],
+    [
+      "having a lunch break and resting",
+      60
+    ],
+    [
+      "resuming reading and research on generative agents and related topics\n[(ID:mqwqbc) Monday February 13 -- 02:00 PM] Activity: Maria is still reading and researching\n[(ID:GzezVe) Monday February 13 -- 03:00 PM] Activity: Maria is still reading and researching\n[(ID:TQMuUh) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:zAFPw1) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:CPLrgq) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:Q8Cfuv) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:mm4TvU) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:0hMS88) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:xUzA47) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:rziLwz) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still reading and researching\n[(ID:TyFktH) Monday February 13 -- 03:00 PM] Activity: Maria is still reading and researching\n[(ID:CGLViR) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:m9bZdB) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:YXCqcT) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:2hYeh5) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:fwKfUH) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:Eed01T) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:5AINWi) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:MVij0E) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still reading and researching\n[(ID:2h9BiE) Monday February 13 -- 04:00 PM] Activity: Maria is taking a break from reading and research\n[(ID:htYxt9) Monday February 13 -- 05:00 PM] Activity: Maria is discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:9CPFmZ) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:mVkktb) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:dof6Fc) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:KznfjP) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:4SynUd) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:wjB1a7) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break from reading and research, 9) discuss the paper with Klaus Mueller and Isabella Rodriguez from 5:00 pm to 6:00 pm, 10) take a break and have dinner from 6:00 pm to 7:00 pm, 11) continue reading and researching from 8:00 pm to 10:00 pm, 12) take a break and get ready for bed from 11:00 pm onward",
+      60
+    ],
+    [
+      "discussing the paper she read with Klaus Mueller and Isabella Rodriguez\n[(ID:bg6jKs) Monday February 13 -- 06:00 PM] Activity: Maria is taking a break and having dinner\n[(ID:C7oISz) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:qwvWEn) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:VrhefB) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:YdrYVL) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:5HGXKa) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break and having dinner\n[(ID:2ALBa2) Monday February 13 -- 07:00 PM] Activity: Maria is still taking a break and relaxing\n[(ID:GoMZ4s) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:7ZZMsH) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:CPO7x5) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:DMXMKZ) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "still taking a break and relaxing\n[(ID:ObrfyC) Monday February 13 -- 08:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:KFiUdW) Monday February 13 -- 09:00 PM] Activity: Maria is continuing to read and research on generative agents and related topics\n[(ID:YDcybB) Monday February 13 -- 10:00 PM] Activity: Maria is still reading and researching\n[(ID:hC7P2H) Monday February 13 -- 11:00 PM] Activity: Maria is taking a break and getting ready for bed",
+      60
+    ],
+    [
+      "taking a break from reading and research, discussing the paper with Klaus Mueller and Isabella Rodriguez from 5:00 pm to 6:00 pm, taking a break and having dinner from 6:00 pm to 7:00 pm, continuing to read and research from 8:00 pm to 10:00 pm, and taking a break and getting ready for bed from 11:00 pm onwards",
+      60
+    ],
+    [
+      "still reading and researching",
+      60
+    ],
+    [
+      "taking a break and getting ready for bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 10:42:00",
+  "act_duration": 20,
+  "act_description": "giving a presentation of the generative agent paper (starting her presentation and introducing the topic)",
+  "act_pronunciatio": "\ud83d\udcbb\ud83c\udfa4",
+  "act_event": [
+    "Maria Lopez",
+    "start",
+    "presentation"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "-"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 205,
+    "Isabella Rodriguez": 331
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
